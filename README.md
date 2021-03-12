@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mattiavizza
 - 👀 I’m interested in C++, Python
 - 🌱 I’m currently learning C++, Python and Java
- <!- 💞️ I’m looking to collaborate on ...>
 - 📫 How to reach me: mattiavizza20@gmail.com
 
 <!---
